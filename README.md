@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![urielexis64 github stats](https://github-readme-stats.vercel.app/api?username=urielexis64&count_private=true&theme=dark&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urielexis64&langs_count=6&layout=compact)
