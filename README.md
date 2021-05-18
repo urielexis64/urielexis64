@@ -17,4 +17,8 @@ Here are some ideas to get you started:
 
 ![urielexis64 github stats](https://github-readme-stats.vercel.app/api?username=urielexis64&count_private=true&theme=dark&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urielexis64&langs_count=6&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urielexis64&langs_count=6&layout=compact&theme=dark)
+
+
+[![urielexis64's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=urielexis64)](https://github.com/anuraghazra/github-readme-stats)
+
